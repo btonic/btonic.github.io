@@ -1,7 +1,7 @@
 # Setup
 title:            0day Engineer
 tagline:          'A Jekyll theme'
-description:      'Even ghosts leave Footprints.'
+description:      'Even ghosts leave footprints.'
 url:              https://0day.engineer
 baseurl:          '/'
 paginate:         2
