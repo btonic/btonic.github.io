@@ -1,0 +1,20 @@
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              https://0day.engineer
+baseurl:          ''
+paginate:         5
+
+# About and contact
+author:
+  name:           'Bobby Tonic'
+  url:            https://twitter.com/b0bbytabl3s
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Custom vars
+version:          3.0.0
