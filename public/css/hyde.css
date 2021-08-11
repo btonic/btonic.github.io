@@ -61,8 +61,8 @@ body {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: #bbe1fa;
-  background-color: #0f4c75;
+  color: #8a0000;
+  background-color: #000000;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -77,20 +77,22 @@ body {
 
 /* Sidebar links */
 .sidebar a {
-  color: #bbe1fa;
+  color: rgba(255, 0, 0, 1);
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #3282b8;
+  text-shadow: 0px 0px 2px rgb(255, 126, 126);
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
+  text-align: center;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
+  text-align: center;
 }
 .sidebar-nav-item {
   display: block;
@@ -114,7 +116,7 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
+    top: 1rem;
     left:   1rem;
   }
 }

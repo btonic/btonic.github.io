@@ -1,7 +1,10 @@
 # Setup
-title:            0day Engineer
-tagline:          '👣'
-description:      'Even ghosts leave footprints.'
+title:            0den
+tagline:          👣👻'
+description: >
+  👻
+  <br />
+  👣
 url:              https://0day.engineer
 baseurl:          ''
 paginate:         2

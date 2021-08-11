@@ -105,7 +105,7 @@ h4, h5, h6 {
 
 /* Body text */
 p {
-  color: white;
+  color: rgb(255, 255, 255);
   margin-top: 0;
   margin-bottom: 1rem;
 }
@@ -262,6 +262,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  text-align: center;
 }
 
 
@@ -338,7 +339,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #3282b8;
+  color: rgba(255, 0, 0, 1);
 }
 .page-title,
 .post-title {
